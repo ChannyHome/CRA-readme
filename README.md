@@ -9,7 +9,10 @@
   2. 양념치킨
   3. 호호호
  
-
+나는 내용을 기입한다 <br/>
+안녕 <br/>
+안녕
+친구
      
 
 ![woman-944261_1280](https://github.com/ChannyHome/CRA-readme/assets/85814739/bbe04390-fdb3-4ee9-8e5f-0ac4d25f85ba)
