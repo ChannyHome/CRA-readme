@@ -13,7 +13,7 @@
 #include <stdio.h>
 ...
 
-참고 : https://github.com/opencv/opencv
+참고 : https://github.com/opencv/opencv <br/>
 참고 : https://pixabay.com/ko/
  
 나는 내용을 기입한다 <br/>
